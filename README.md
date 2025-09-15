@@ -13,7 +13,7 @@ This system **tracks real satellites in space right now** including the Internat
 - ⚠️ **Detect potential collisions** between space objects  
 - 📊 **Professional mission control dashboard** with 6 analysis panels
 - 🔄 **Live data feeds** from NORAD/CelesTrak updated daily
-- 
+  
 ## ⚡ **Quick Demo - Track the ISS Right Now**
 ```
 # Clone and setup (2 minutes)
